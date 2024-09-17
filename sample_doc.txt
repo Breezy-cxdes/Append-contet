@@ -1,0 +1,13 @@
+Low-Level vs. High-Level
+Computer programmers split coding languages into two groups: low-level and high-level.
+
+Low-level languages, like binary, are considered "machine-oriented." Machine-oriented languages write instructions that must be specified in terms of the capabilities of the processor in question. Coders also refer to low-level languages as assembly language or machine code.
+
+High-level languages are user-oriented. Most of the popular coding languages, such as Python, fall under this category. Programmers designed high-level languages to convert an algorithm into program code more easily. High-level coding languages are closer to human language — they include more nuance and adaptability than low-level coding languages.
+
+Coding vs. Programming
+A lot of people think coding and programming are the same thing. Coding, however, is only one small part of programming.
+
+Coding is the process of allowing humans to speak to computers. As computers only understand binary language — a series of zeros and ones — humans need to use a programming language as a translator of sorts.
+
+Programming, on the other hand, includes not only coding but also the digital product's planning, testing, deployment, and maintenance.
